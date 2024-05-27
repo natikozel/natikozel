@@ -3,7 +3,7 @@
 
 ### Hello GitHub! 😄👋
 
-My name is <b>Netanel Kozel</b>, I'm currently 25-year-old and live in Israel. I'm a third-year student pursuing a B.Sc in <b>Software Engineering.</b> 🎓
+My name is <b>Netanel Kozel</b>, I'm currently 25-year-old and live in Israel. I'm a third-year student pursuing a B.Sc in <b>Software Engineering.</b>
 
 As a Full-Stack developer I have the opertunity to write secure cloud applications and programs that reaches thousands of people.
 My expertise and favorite would be writing Node.js applications and microservices in the back-end side and React.js applications in the front-end. My stack includes various frameworks such as Expressjs, Nextjs and Remix.
