@@ -14,6 +14,7 @@ For databases I mainly use non-relational databases such as <b>AWS</b>, <b>Mongo
 I'm also familiar with
 
 * Java development, including the <b>Spring</b> framework for REST APIs
+* Android development with both Java and Kotlin, and Jetpack Compose for building modern mobile applications.
 * Prompt engineering with maximum utilization of <b>artificial intelligence</b>
 
 I'm constantly seeking new challenges to enhance my skills. Learning and problem-solving aren't just tasks for me; they're my passion. 
