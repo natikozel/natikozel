@@ -5,7 +5,7 @@
 
 My name is <b>Netanel Kozel</b>, I'm currently 25-year-old and live in Israel. I'm a third-year student pursuing a B.Sc in <b>Software Engineering.</b>
 
-As a Full-Stack developer I have the opportunity to write secure cloud applications and programs that reaches thousands of people.
+As a Full-Stack developer, I am eager to build secure cloud applications and continuously learn and grow in the field. I am passionate about exploring new technologies and improving my skills every day.
 My expertise and favorite would be writing <b>Node.js</b> applications and microservices in the back-end side and <b>React.js</b> applications in the front-end. My stack includes various frameworks such as <b>Expressjs</b>, <b>Nextjs</b> and <b>Remix.</b>
 
 For databases I mainly use non-relational databases such as <b>AWS</b>, <b>MongoDB</b> or <b>Firebase Firestore</b>, but I'm also familiar with <b>PostgreSQL</b> and <b>ORM</b> in <b>JS</b> and <b>TS.</b>
