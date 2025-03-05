@@ -3,7 +3,7 @@
 
 ### Hello GitHub! 😄👋
 
-My name is <b>Netanel Kozel</b>, I'm currently 25-year-old and live in Israel. I'm a third-year student pursuing a B.Sc in <b>Software Engineering.</b>
+My name is <b>Netanel Kozel</b>, I'm a fourth-year student pursuing a B.Sc in <b>Software Engineering.</b>
 
 As a Full-Stack developer, I am eager to build secure cloud applications and continuously learn and grow in the field. I am passionate about exploring new technologies and improving my skills every day.
 
